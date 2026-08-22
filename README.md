@@ -20,7 +20,7 @@ Passionate about system auditing, defensive log analysis (DFIR), and web applica
 ### 🛠️ Technical Toolkit
 
 * **Languages & Scripting:** Python, PowerShell, SQL
-* **Security & Analysis:** Windows Event Logs (EVTX), DFIR, Network Auditing, Burp Suite (learning), Wireshark
+* **Security & Analysis:** Windows Event Logs (EVTX), Network Auditing, Burp Suite (learning), Wireshark
 * **Data & Environment:** Pandas, Matplotlib, Docker, Git, Linux / Windows
 
 ---
