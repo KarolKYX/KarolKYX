@@ -1,23 +1,26 @@
-# Hi there, I'm Karol 👋
+# Hi there, I'm Karol :wave:
 *Aspiring Cybersecurity Analyst & Penetration Tester*
 
 Passionate about system auditing, defensive log analysis (DFIR), and web application security testing.
 
 ---
 
-### 🛡️ Featured Cybersecurity Projects
+### :shield: Featured Cybersecurity Projects
 
-* 🔍 **[Windows EVTX Security Log Parser](https://github.com/KarolKYX/windows-evtx-log-parser)**
+* :computer: **[OWASP Juice Shop SQLi & CIA Triad Audit](https://github.com/KarolKYX/sql-injection-case-study)**
+  * End-to-end web security assessment targeting an intentionally vulnerable containerized e-commerce application.
+  * Demonstrates practical SQL Injection exploitation (credential exfiltration, auth bypass, DoS risks) mapped across the CIA Triad with step-by-step Burp Suite PoCs and secure code remediations[cite: 1].
+
+* :mag: **[Windows EVTX Security Log Parser](https://github.com/KarolKYX/windows-evtx-log-parser)**
   * Python pipeline that parses binary `.evtx` files, filters system noise, and normalizes XML into structured JSON.
   * Includes automated SOC-style trend analysis and visualization dashboards using Pandas and Matplotlib.
 
-* 📋 **[Windows Security Auditing Tool](https://github.com/KarolKYX/Auditing-PowerShell-Tool)** 
+* :clipboard: **[Windows Security Auditing Tool](https://github.com/KarolKYX/Auditing-PowerShell-Tool)** 
   * Automated PowerShell script auditing Windows Firewall configurations, active TCP ports, and network processes.
   * Compiles security posture findings into a clean, standalone HTML report with browser preview.
-
 ---
 
-### 🛠️ Technical Toolkit
+### :hammer_and_wrench: Technical Toolkit
 
 * **Languages & Scripting:** Python, PowerShell, SQL
 * **Security & Analysis:** Windows Event Logs (EVTX), Network Auditing, Burp Suite (learning), Wireshark
@@ -25,21 +28,21 @@ Passionate about system auditing, defensive log analysis (DFIR), and web applica
 
 ---
 
-### 📬 Connect with Me
-* 💼 **LinkedIn:** [https://www.linkedin.com/in/karol-strz%C4%99pek-017441390/](https://www.linkedin.com/in/karol-strz%C4%99pek-017441390/)
+### :mailbox_with_mail: Connect with Me
+* :briefcase: **LinkedIn:** [https://www.linkedin.com/in/karol-strz%C4%99pek-017441390/](https://www.linkedin.com/in/karol-strz%C4%99pek-017441390/)
 
 
 <!--
-**KarolKYX/KarolKYX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**KarolKYX/KarolKYX** is a :sparkles: _special_ :sparkles: repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- :telescope: I’m currently working on ...
+- :seedling: I’m currently learning ...
+- :dancers: I’m looking to collaborate on ...
+- :thinking: I’m looking for help with ...
+- :speech_balloon: Ask me about ...
+- :mailbox_with_mail: How to reach me: ...
+- :smile: Pronouns: ...
+- :zap: Fun fact: ...
 -->
