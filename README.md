@@ -25,7 +25,7 @@ Passionate about system auditing, defensive log analysis (DFIR), and web applica
 
 * :key: **[AES-128 ECB Implementation & Vulnerability Demo](https://github.com/KarolKYX/AES-128-ECB)**
   * Fully functional, scratch-built Python implementation of the AES block cipher, including Galois Field arithmetic and custom PKCS#7 padding.
-  * Visually demonstrates the critical security flaw of Electronic Codebook (ECB) mode by encrypting structured image data to expose pattern preservation ("ECB Penguin").
+  * Visually demonstrates the critical security flaw of Electronic Codebook (ECB) mode by encrypting structured image data to expose pattern preservation.
 
 ---
 
