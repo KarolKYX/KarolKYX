@@ -5,7 +5,7 @@ Passionate about system auditing, defensive log analysis (DFIR), and web applica
 
 ---
 
-### :shield: Featured Cybersecurity Projects
+### :shield: Cybersecurity Projects
 
 * :computer: **[OWASP Juice Shop SQLi & CIA Triad Audit](https://github.com/KarolKYX/sql-injection-case-study)**
   * End-to-end web security assessment targeting an intentionally vulnerable containerized e-commerce application.
