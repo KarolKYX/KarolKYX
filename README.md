@@ -34,7 +34,9 @@ Passionate about system auditing, defensive log analysis (DFIR), and web applica
 
   * Visually demonstrates the critical security flaw of Electronic Codebook (ECB) mode by encrypting structured image data to expose pattern preservation.
 
-
+:construction: **[Post-Quantum Hybrid Cryptosystem: FrodoKEM + AES-GCM](#)** *(Under Construction)*
+  * Developing a quantum-resistant hybrid encryption scheme integrating lattice-based FrodoKEM for secure key encapsulation.
+  * Coupling the KEM with AES-GCM for authenticated symmetric payload encryption, ensuring future-proof confidentiality and data integrity.
 
 --- 
 
