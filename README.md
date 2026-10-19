@@ -7,27 +7,26 @@ Passionate about system auditing, defensive log analysis (DFIR), and web applica
 
 ### :shield: Cybersecurity Projects
 
-* :computer: **[OWASP Juice Shop SQLi & CIA Triad Audit](https://github.com/KarolKYX/sql-injection-case-study)**
+- :robot: **[Behavioral Anomaly Detection: Insider Threat PoC](https://github.com/KarolKYX/insider-threat-markov-poc)**
+  * Machine Learning pipeline built to detect malicious insider activities within corporate networks using the CERT dataset.
+  * Leverages Markov Chains to model chronological sequences of user behavior, calculating log-likelihoods and applying the 3-sigma rule to dynamically flag behavioral anomalies.
+
+- :computer: **[OWASP Juice Shop SQLi & CIA Triad Audit](https://github.com/KarolKYX/sql-injection-case-study)**
   * End-to-end web security assessment targeting an intentionally vulnerable containerized e-commerce application.
   * Demonstrates practical SQL Injection exploitation (credential exfiltration, auth bypass, DoS risks) mapped across the CIA Triad with step-by-step Burp Suite PoCs and secure code remediations.
 
-* :mag: **[Windows EVTX Security Log Parser](https://github.com/KarolKYX/windows-evtx-log-parser)**
+- :mag: **[Windows EVTX Security Log Parser](https://github.com/KarolKYX/windows-evtx-log-parser)**
   * Python pipeline that parses binary `.evtx` files, filters system noise, and normalizes XML into structured JSON.
   * Includes automated SOC-style trend analysis and visualization dashboards using Pandas and Matplotlib.
 
-* :clipboard: **[Windows Security Auditing Tool](https://github.com/KarolKYX/Auditing-PowerShell-Tool)** 
+- :clipboard: **[Windows Security Auditing Tool](https://github.com/KarolKYX/Auditing-PowerShell-Tool)** 
   * Automated PowerShell script auditing Windows Firewall configurations, active TCP ports, and network processes.
   * Compiles security posture findings into a clean, standalone HTML report with browser preview.
 
 ---
 
 ### :lock: Cryptography Projects
-
-* :key: **[AES-128 ECB Implementation & Vulnerability Demo](https://github.com/KarolKYX/Advanced-Encryption-Standard-AES-128-)**
-  * Fully functional, scratch-built Python implementation of the AES block cipher, including Galois Field arithmetic and custom PKCS#7 padding.
-  * Visually demonstrates the critical security flaw of Electronic Codebook (ECB) mode by encrypting structured image data to expose pattern preservation.
-
----
+[... reszta pozostaje bez zmian]
 
 ### :mailbox_with_mail: Connect with Me
 * :briefcase: **LinkedIn:** [https://www.linkedin.com/in/karol-strz%C4%99pek-017441390/](https://www.linkedin.com/in/karol-strz%C4%99pek-017441390/)
