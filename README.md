@@ -26,7 +26,17 @@ Passionate about system auditing, defensive log analysis (DFIR), and web applica
 ---
 
 ### :lock: Cryptography Projects
-[... reszta pozostaje bez zmian]
+
+
+
+:key: **[AES-128 ECB Implementation & Vulnerability Demo](https://github.com/KarolKYX/Advanced-Encryption-Standard-AES-128-)**
+  * Fully functional, scratch-built Python implementation of the AES block cipher, including Galois Field arithmetic and custom PKCS#7 padding.
+
+  * Visually demonstrates the critical security flaw of Electronic Codebook (ECB) mode by encrypting structured image data to expose pattern preservation.
+
+
+
+--- 
 
 ### :mailbox_with_mail: Connect with Me
 * :briefcase: **LinkedIn:** [https://www.linkedin.com/in/karol-strz%C4%99pek-017441390/](https://www.linkedin.com/in/karol-strz%C4%99pek-017441390/)
